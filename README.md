@@ -1,5 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WYLLIE_FANG&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WYLLIE_FANG&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WYLLIE-FANG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WYLLIE-FANG&layout=compact&theme=radical)
 ![Profile views](https://gpvc.arturio.dev/WYLLIE_FANG)
 
 ### Connect with me:
