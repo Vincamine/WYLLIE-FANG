@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Welcome 👋, I'm Wyllie Fang</h1>
 
 
@@ -10,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
 
-<img align="right" width="330" height="220" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<p align="center"> <img align="right" width="330" height="220" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - I’m a `Master Student in Computer Science`.
   
@@ -29,16 +28,6 @@
 <!-- <a href="mailto:a.moh.nassar00@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" height="30" width="32" /></a> -->
 </p>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h3 align="left">Problem Solving:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_moh_nassar00" height="30" width="40" /></a>
-<!--
-<a href="https://codeforces.com/profile/ahmed_nassar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wyllie_fang" height="30" width="40" /></a>
--->
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasssar" height="30" width="40" /></a>
-</p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
