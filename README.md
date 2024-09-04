@@ -14,7 +14,7 @@
   
 - Looking for internships then landing a SDE job.
 
-- With logic and precision, the code conforms,
+- With logic and precision, the code conforms,\n
   Shaping the future, one line at a time.
   Each program designed with passion in prime,
   Building a world where solutions perform.
