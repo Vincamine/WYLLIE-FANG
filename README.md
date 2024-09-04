@@ -12,9 +12,12 @@
   
 - Working on my `Portfolio` project.
   
-- Looking for an `Internship`.
-  
-- Enjoy my GitHub profile.
+- Looking for internships then landing a SDE job.
+
+- With logic and precision, the code conforms,
+  Shaping the future, one line at a time.
+  Each program designed with passion in prime,
+  Building a world where solutions perform.
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
